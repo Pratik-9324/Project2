@@ -1,1 +1,1 @@
-//This is a new javascript file
+//This is a new javascript file -add new button
